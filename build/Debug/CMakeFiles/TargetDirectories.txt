@@ -1,8 +1,0 @@
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/stm32f103c8t6_template.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/reset.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/erase.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/download.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/edit_cache.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/CMakeFiles/rebuild_cache.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-/Users/liangweitao/projects/stm32f103c8t6_template/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
