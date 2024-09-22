@@ -54,6 +54,10 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+struct 
+{
+  int a;
+}test;
 
 /* USER CODE END 0 */
 
@@ -94,6 +98,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+    HAL_Delay(1000);
+    test.a++;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

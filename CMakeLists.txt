@@ -66,3 +66,12 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
 
     # Add user defined libraries
 )
+
+# Add openocd functions
+include(${CMAKE_SOURCE_DIR}/openocd/flash-target.cmake)
+
+# 调用 add_erase_and_reset 函数
+add_erase_and_reset()
+
+# 调用 flash_target 函数
+flash_target()
